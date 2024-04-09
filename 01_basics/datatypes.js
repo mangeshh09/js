@@ -13,5 +13,5 @@ console.log(typeof null)        //object
 // undefined => undefined
 // Symbol =>unique
 
-//object
+//object 
 
