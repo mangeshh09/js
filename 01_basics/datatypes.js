@@ -13,5 +13,9 @@ console.log(typeof null)        //object
 // undefined => undefined
 // Symbol =>unique
 
+
+//Non-primitive datatypes(Reference)
+//Array
 //object 
+//functions
 
