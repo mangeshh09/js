@@ -1,3 +1,4 @@
+
 console.log(null < 0)
 console.log(null > 0)
 console.log(null == 0)  //in this case js treats the null as a string
